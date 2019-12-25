@@ -1,0 +1,13 @@
+﻿date,time_begin_at,time_end_at,week,semester,course_id,type,location
+Monday,1 pm,3 pm,"weeks 1-8, 10-12",semester 2,CIVL1810,Lecture,Seymour Centre York LT
+Monday,1 pm,3 pm,week 13,semester 2,CIVL1810,Lecture,Seymour Centre Everest LT
+Monday,5 pm,7 pm,"weeks 1-8, 10-11",semester 2,PMGT2854,Workshop Workshop,PNR Learning Studio 310
+Monday,5 pm,7 pm,weeks 12-13,semester 2,PMGT2854,Workshop Workshop,New Law Annexe SR 340
+Tuesday,11 am,1 pm,weeks 1-13,semester 2,CIVL2611,Lecture,Institute Lect Theatre 1
+Wednesday,1 pm,2:30 pm,week 7,semester 2,CIVL2611,Fluids Lab Group W13B,Civil Eng Fluids Lab
+Wednesday,2 pm,4 pm,"weeks 1-6, 8-11, 13",semester 2,CIVL2611,Tutorial,PNR Learning Studio 310
+Wednesday,4 pm,5 pm,weeks 2-13,semester 2,CIVL1810,Tutorial,Carslaw Seminar Room 350
+Wednesday,5 pm,7 pm,weeks 11-13,semester 2,CIVL1810,Fieldwork,Civil Eng Survey Lab 104
+Thursday,2 pm,4 pm,week 12,semester 2,CIVL2611,Quiz 2,Chemistry Lect Theatre 3
+Thursday,2 pm,4 pm,week 7,semester 2,CIVL2611,Quiz 1,Chemistry Lect Theatre 3
+Friday,11 am,1 pm,weeks 1-13,semester 2,PMGT2821,Workshop Workshop,New Law Annexe SR 446
